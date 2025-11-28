@@ -1,4 +1,4 @@
-package com.example.vikramsamvat.ui.theme
+package com.patro.bikramsamvat.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun VikramSamvatTheme(
+fun BikramSamvatTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

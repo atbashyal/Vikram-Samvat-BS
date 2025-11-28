@@ -1,4 +1,4 @@
-package com.example.vikramsamvat
+package com.patro.bikramsamvat
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.vikramsamvat.ui.theme
+package com.patro.bikramsamvat.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
