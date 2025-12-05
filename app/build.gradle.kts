@@ -43,6 +43,7 @@ android {
 
 dependencies {
     implementation(libs.androidx.core.ktx)
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
