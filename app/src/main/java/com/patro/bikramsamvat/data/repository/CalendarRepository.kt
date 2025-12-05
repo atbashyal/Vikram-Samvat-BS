@@ -56,6 +56,7 @@ data class CalendarDate(
 data class AstralData(
     val sunrise: String? = null,
     val sunset: String? = null
+    
 )
 
 @Serializable
