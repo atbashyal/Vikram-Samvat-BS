@@ -11,7 +11,6 @@ import kotlinx.serialization.json.Json
 @Serializable
 data class CalendarResponse(
     val data: CalendarData
-
 )
 
 @Serializable
